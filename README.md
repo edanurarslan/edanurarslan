@@ -20,7 +20,7 @@ I'm a passionate software developer with a strong background in [Your Specializa
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=<edanurarslan>&show_icons=true&theme=dark)
+<img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=edanurarslan&show_icons=true&locale=en&layout=compact&langs_count=8&theme=radical" alt="mukireus"/>
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=<edanurarslan>&layout=compact&theme=dark)
 
