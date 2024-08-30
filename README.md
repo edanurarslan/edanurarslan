@@ -18,7 +18,6 @@ I'm a passionate software developer with a strong background in [Your Specializa
 ## 🔧 Languages and Tools:
 
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/python/python.png" />
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/python/python.png" />
 <img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/1f2f8721b703b54a20e65c94b104a1a6e30de43e/topics/c/c.png" />]
 <img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/github/explore/1f2f8721b703b54a20e65c94b104a1a6e30de43e/topics/csharp/csharp.png" />
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/1f2f8721b703b54a20e65c94b104a1a6e30de43e/topics/java/java.png" />
