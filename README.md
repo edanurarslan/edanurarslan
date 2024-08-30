@@ -24,4 +24,5 @@ I'm a passionate software developer with a strong background in [Your Specializa
 ## 🌐 Connect with Me
 
 - LinkedIn: https://www.linkedin.com/in/eda-nur-arslan
+- [<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
 
