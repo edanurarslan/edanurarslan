@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Eda!
 
-I'm a passionate software developer with a strong background in [Your Specialization]. I love working on innovative projects and exploring the latest technologies.
+I'm a passionate computer engineering student. I love working on innovative projects and exploring the latest technologies.
 
 ## 🚀 About Me
 
