@@ -18,18 +18,12 @@ I'm a passionate software developer with a strong background in [Your Specializa
 ## 🔧 Languages and Tools:
 
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/python/python.png" />
-<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/1f2f8721b703b54a20e65c94b104a1a6e30de43e/topics/c/c.png" />]
-<img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/github/explore/1f2f8721b703b54a20e65c94b104a1a6e30de43e/topics/csharp/csharp.png" />
-<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/1f2f8721b703b54a20e65c94b104a1a6e30de43e/topics/java/java.png" />
-<img align="left" alt="NumPy" width="26px" src="https://raw.githubusercontent.com/github/explore/1f2f8721b703b54a20e65c94b104a1a6e30de43e/topics/numpy/numpy.png" />
-<img align="left" alt="Pandas" width="26px" src="https://raw.githubusercontent.com/github/explore/1f2f8721b703b54a20e65c94b104a1a6e30de43e/topics/pandas/pandas.png" />
-<img align="left" alt="Scikit-learn" width="26px" src="https://raw.githubusercontent.com/github/explore/1f2f8721b703b54a20e65c94b104a1a6e30de43e/topics/scikit-learn/scikit-learn.png" />
 
 <br>
 
 
 ## 👩‍💻📱 My Released Applications
-<a href="https://play.google.com/store/apps/details?id=com.QuadCenGame.PaintHit"></a>
+<a href="https://play.google.com/store/apps/details?id=com.QuadCenGame.PaintHit">Paint Hit</a>
 
 ## 📈 GitHub Stats
 
