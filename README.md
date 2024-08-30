@@ -15,6 +15,9 @@ I'm a passionate software developer with a strong background in [Your Specializa
 - **Programming Languages:** Python, C#, C, Java
 - **Frameworks & Libraries:** Pandas, Numpy, Sci-Kit Learn
 
+## 👩‍💻📱 My Released Applications
+<a href="https://play.google.com/store/apps/details?id=com.QuadCenGame.PaintHit"><img align="left" alt="Türkiye'den Haberler" width="100px" src="https://play-lh.googleusercontent.com/97NpinL4HmRxLDmIPKfCfrZNjf6Vvj3dL8mMIJ7YyLjYzhEKBauicV9stdls0pmVhw=s180-rw" /></a>
+
 ## 📈 GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=<edanurarslan>&show_icons=true&theme=dark)
@@ -24,5 +27,3 @@ I'm a passionate software developer with a strong background in [Your Specializa
 ## 🌐 Connect with Me
 
 - LinkedIn: https://www.linkedin.com/in/eda-nur-arslan
-- [<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
-
