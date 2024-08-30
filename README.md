@@ -23,7 +23,7 @@ I'm a passionate software developer with a strong background in [Your Specializa
 
 
 ## 👩‍💻📱 My Released Applications
-<a href="https://play.google.com/store/apps/details?id=com.QuadCenGame.PaintHit">Paint Hit</a>
+<a href="https://play.google.com/store/apps/details?id=com.QuadCenGame.PaintHit">Color Rings Game</a>
 
 ## 📈 GitHub Stats
 
