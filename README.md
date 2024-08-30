@@ -15,9 +15,10 @@ I'm a passionate software developer with a strong background in [Your Specializa
 - **Programming Languages:** Python, C#, C, Java
 - **Frameworks & Libraries:** Pandas, Numpy, Sci-Kit Learn
 
-### 🔧 Languages and Tools:
+## 🔧 Languages and Tools:
 
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/python/python.png" />
+<br>
 
 
 ## 👩‍💻📱 My Released Applications
