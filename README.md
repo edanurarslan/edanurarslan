@@ -21,16 +21,16 @@ I'm a passionate computer engineering student. I love working on innovative proj
 
 <br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=edanurarslan&label=Profile%20views&color=0e75b6&style=flat" alt="edanurarslan" /> </p>
-
 ## 👩‍💻📱 My Released Applications
 <a href="https://play.google.com/store/apps/details?id=com.QuadCenGame.PaintHit">Color Rings Game</a>
 
 ## 📈 GitHub Stats
 
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=edanurarslan&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" alt="mukireus"/> <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=edanurarslan&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="mukireus"/>
-  
 
+  <br>
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=edanurarslan&label=Profile%20views&color=0e75b6&style=flat" alt="edanurarslan" /> </p>
+<br>
 
 ## 🌐 Connect with Me
 
