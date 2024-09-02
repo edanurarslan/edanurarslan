@@ -21,6 +21,7 @@ I'm a passionate computer engineering student. I love working on innovative proj
 
 <br>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=edanurarslan&label=Profile%20views&color=0e75b6&style=flat" alt="edanurarslan" /> </p>
 
 ## 👩‍💻📱 My Released Applications
 <a href="https://play.google.com/store/apps/details?id=com.QuadCenGame.PaintHit">Color Rings Game</a>
