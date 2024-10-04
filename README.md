@@ -25,7 +25,7 @@ I'm a passionate computer engineering student. I love working on innovative proj
 
 ## 📈 GitHub Stats
 
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=edanurarslan&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" alt="mukireus"/> <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=edanurarslan&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="mukireus"/><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=edanurarslan&" alt="edanurarslan" />
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=edanurarslan&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" alt="mukireus"/> <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=edanurarslan&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="mukireus"/><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=edanurarslan&" alt="mukireus" />
 
   <br>
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=edanurarslan&label=Profile%20views&color=0e75b6&style=flat" alt="edanurarslan" /> </p>
