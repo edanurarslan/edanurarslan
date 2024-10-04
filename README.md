@@ -34,3 +34,11 @@ I'm a passionate computer engineering student. I love working on innovative proj
 ## 🌐 Connect with Me
 
 - LinkedIn: https://www.linkedin.com/in/eda-nur-arslan
+
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=edanurarslan&show_icons=true&locale=en&layout=compact" alt="edanurarslan" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=edanurarslan&show_icons=true&locale=en" alt="edanurarslan" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=edanurarslan&" alt="edanurarslan" /></p>
